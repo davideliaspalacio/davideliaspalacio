@@ -8,17 +8,11 @@
   <a href="https://www.linkedin.com/in/davidepalacio/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="25" alt="youtube logo" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" alt="twitter logo" />
-  </a>
 </div>
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋 I'm David</h1>
 
 ###
 
@@ -27,19 +21,16 @@
 ###
 
 <p align="left">
-I'm a Software Engineer from Colombia 🇨🇴<br><br>
+Software Engineer from Colombia 🇨🇴 with 2.5+ years of experience building <b>production-grade web and Web3 applications</b>.<br><br>
 
-- 🔭 I’m currently working as a Software Engineer building production-grade Web3 and fintech products<br>
-- 🏗️ Part of a core team that scaled a multi-tenant platform processing millions of dollars in monthly transactions<br>
-- ⚙️ Strong focus on frontend architecture, performance, and long-term maintainability<br>
-- 🌐 I collaborate closely with product, backend, and blockchain teams<br>
-- 📚 Currently deepening my knowledge in Web3, smart contract interactions, and scalable frontend systems<br>
-- ⚡ In my free time, I enjoy learning new technologies, improving my architecture skills, and building side projects
+I’ve worked on a multi-tenant platform processing <b>millions of dollars in monthly transaction volume</b>, taking ownership of frontend architecture, performance, and scalability as the product grew.<br><br>
+
+I work closely with product, backend, and blockchain teams to ship features used daily in production, with a strong focus on clean architecture, UX, and long-term maintainability.
 </p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Tech Stack</h3>
 
 ###
 
@@ -54,7 +45,7 @@ I'm a Software Engineer from Colombia 🇨🇴<br><br>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1200px-NestJS.svg.png" height="40" alt="nestjs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo" />
   <img width="12" />
@@ -65,44 +56,28 @@ I'm a Software Engineer from Colombia 🇨🇴<br><br>
 
 ###
 
-<h3 align="left">🔥 My Stats</h3>
+<h3 align="left">🚀 What I Do</h3>
 
 ###
 
 <p align="left">
-Software Engineer with 2.5+ years of experience building scalable, high-performance web applications using React, Next.js, and TypeScript.<br><br>
-
-I’ve been part of the core development team since the early stages, contributing to the initial architecture of a multi-tenant production platform that processes millions of dollars in monthly transaction volume.<br><br>
-
-As the product scaled, I took increased ownership across the frontend, leading architectural and performance improvements and collaborating closely with product, backend, and blockchain teams to deliver Web3 payment flows and smart contract–based features used daily in production.<br><br>
-
-I also have hands-on experience with backend and platform work, including API integrations, automation workflows using n8n, and the development of AI-powered internal tools. My focus is always on clean architecture, scalability, reliability, and long-term maintainability.
+• Frontend architecture with React, Next.js & TypeScript<br>
+• Web3 integrations (wallets, smart contracts, on-chain/off-chain data)<br>
+• Performance optimization and UX improvements in live products<br>
+• Backend integrations with Node.js, NestJS, REST & GraphQL APIs<br>
+• Automation workflows and internal tools (n8n)
 </p>
 
 ###
 
-<h3 align="left">📌 Tech Stack</h3>
+<h3 align="left">ℹ️ About this GitHub</h3>
 
 ###
 
 <p align="left">
-• React, Next.js, TypeScript, JavaScript<br>
-• Web3 frontend (wallet integrations, smart contract interaction)<br>
-• Node.js, NestJS<br>
-• REST & GraphQL APIs<br>
-• Automation & workflows: n8n<br>
-• Tooling: Git, GitHub, Figma
-</p>
+Most of my professional work lives in <b>private repositories on Azure DevOps</b>, which is the platform used by my current company.<br><br>
 
-###
-
-<h3 align="left">ℹ️ Note about GitHub activity</h3>
-
-###
-
-<p align="left">
-Most of my professional work is developed in private repositories using <b>Azure DevOps</b>, which is the version control and CI/CD platform used by my current company.<br><br>
-This GitHub profile is mainly used for personal projects, experimentation, and open-source contributions.
+This GitHub is mainly for personal projects, experimentation, and selective open-source work, so public commit activity here does not reflect my day-to-day professional output.
 </p>
 
 ###

@@ -21,7 +21,7 @@
 ###
 
 <p align="left">
-Software Engineer from Colombia 🇨🇴 with 2.5+ years of experience building <b>production-grade web and Web3 applications</b>.<br><br>
+Software Engineer from Colombia 🇨🇴 with 3+ years of experience building <b>production-grade web and Web3 applications</b>.<br><br>
 
 I’ve worked on a multi-tenant platform processing <b>millions of dollars in monthly transaction volume</b>, taking ownership of frontend architecture, performance, and scalability as the product grew.<br><br>
 
@@ -83,5 +83,5 @@ This GitHub is mainly for personal projects, experimentation, and selective open
 ###
 
 <p align="left">
-🌍 Languages: Spanish (Native) | English (B2)
+🌍 Languages: Spanish (Native) | English (C1)
 </p>
